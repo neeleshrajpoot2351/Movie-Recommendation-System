@@ -15,6 +15,7 @@ This project is a full-stack movie recommendation system that uses machine learn
 - Java + Python integration using REST API and JSON
 - Poster fetching and dynamic display
 - Clean UI with JSP and HTML/CSS
+- directory name - https://drive.google.com/drive/u/0/folders/14yfTZarKUTBOxLFocpLmd6_egVVRSIHC
 
 ### 📁 Folder Structure:
 - `/model`: ML training notebook, `.pkl` file
